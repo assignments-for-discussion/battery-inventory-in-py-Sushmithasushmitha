@@ -6,7 +6,7 @@ def low_count=0, medium_count=0 ,high_count=0;
       low count+=1;
     else if i>400 & i<919:
       medium count+=1
-    else if i>920:
+    else i>920:
       high count+=1
   return {
     "lowCount": 0,
