@@ -1,6 +1,6 @@
 
 def count_batteries_by_usage(cycles):
-def low count=0,medium count=0,high count=0;
+def low_count=0, medium_count=0 ,high_count=0;
   for i in cycle:
     if i<400:
       low count+=1;
